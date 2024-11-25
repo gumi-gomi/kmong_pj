@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "./static/css/main.e593c372.css",
-    "main.js": "./static/js/main.0f7a92cc.js",
+    "main.js": "./static/js/main.35298585.js",
     "static/media/skullvideo.gif": "./static/media/skullvideo.9c4fb86a482ff38f0287.gif",
-    "static/media/backgroundflow.gif": "./static/media/backgroundflow.1e72782ab9fd74f22b7e.gif",
-    "static/media/rightbottom.gif": "./static/media/rightbottom.06df82aabce8feaa91a9.gif",
-    "static/media/righttop.gif": "./static/media/righttop.21e625d32ce281cdb6ea.gif",
+    "static/media/backgroundflow.webp": "./static/media/backgroundflow.d4739e78d84caf629bfd.webp",
     "static/media/designbg.png": "./static/media/designbg.996dd6dc1a0e3ccaa472.png",
-    "static/media/lefttop.gif": "./static/media/lefttop.3ccb54681909d0ec72f7.gif",
-    "static/media/leftmiddle.gif": "./static/media/leftmiddle.3869f727f4cea02eb3cb.gif",
+    "static/media/rightbottom.webp": "./static/media/rightbottom.f8c987dc1adff519eb90.webp",
+    "static/media/righttop.webp": "./static/media/righttop.d63c1fa6d08ed88fd4c9.webp",
     "static/media/dentalbg1.png": "./static/media/dentalbg1.039e4254d98076645efd.png",
+    "static/media/lefttop.webp": "./static/media/lefttop.deac31103d840dedaabe.webp",
+    "static/media/leftmiddle.webp": "./static/media/leftmiddle.0f99e82894ebb6a9e43f.webp",
     "static/media/gumigomiillust.webp": "./static/media/gumigomiillust.95c670214b5cb5260134.webp",
-    "static/media/plate.gif": "./static/media/plate.b77abd0b720aefccf924.gif",
     "static/media/astro.webp": "./static/media/astro.a92e813067dcd609e90c.webp",
     "static/media/leftbg.webp": "./static/media/leftbg.64e10d3e5d1be77bb117.webp",
     "static/media/hand.webp": "./static/media/hand.6c83a928826016c843cf.webp",
@@ -21,13 +20,14 @@
     "static/media/slide1.webp": "./static/media/slide1.bad62599f536314a9089.webp",
     "static/media/backgroundimg.webp": "./static/media/backgroundimg.63b8683a8712b6ae94d8.webp",
     "static/media/bgstar.png": "./static/media/bgstar.c37c1846124e1854dffc.png",
+    "static/media/plate.webp": "./static/media/plate.e367f4d156e27a0d00de.webp",
     "static/media/scope.webp": "./static/media/scope.a0e131e1aade94b3a01a.webp",
     "index.html": "./index.html",
     "main.e593c372.css.map": "./static/css/main.e593c372.css.map",
-    "main.0f7a92cc.js.map": "./static/js/main.0f7a92cc.js.map"
+    "main.35298585.js.map": "./static/js/main.35298585.js.map"
   },
   "entrypoints": [
     "static/css/main.e593c372.css",
-    "static/js/main.0f7a92cc.js"
+    "static/js/main.35298585.js"
   ]
 }
